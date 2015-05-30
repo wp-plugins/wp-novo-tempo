@@ -31,12 +31,12 @@ Entre em contato com joel.garciajr84@gmail.com
 
 == Screenshots ==
 
-1.
-2.
-3.
-4.
-5.
+1.  Tela 1
+2.  Tela 2
+3.  Tela 3
+4.  Tela 4
+5.  Tela 5
 
 == Changelog ==
-= 1.0 =
+= 1.1 =
 * First version of the system
