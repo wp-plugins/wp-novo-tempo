@@ -13,11 +13,17 @@ Transmita esperança em seu site / Blog =)
 
 Este plugin cria dois Widgets em seu site, um da TV novo Tempo e um da Rádio Novo Tempo, você pode transmitir esperança através do seu site. Basta arrastar e colocar o / os Widgets na área que deseja e pronto. Seu site já estará transmitindo ao vivo a TV e/ou Rádio Novo Tempo.
 
-http://novotempo.com/
+[Este plugin é uma produção independente, não foi construído pela Rede novo tempo, nem pela IASD]
+
+Site da Rede Novo Tempo: http://novotempo.com/
 
 == Installation ==
 
-Instalação padrão.
+A instalação do plugin é bastante simples.
+
+Extraia a pasta wp-novo-tempo para a pasta onde se encontra os seus plugins Ex.:/wp-content/plugins/
+Ative o WP Novo Tempo no menu Plugins do WordPress
+Entre em contato com joel.garciajr84@gmail.com
 
 == Frequently asked questions ==
 
