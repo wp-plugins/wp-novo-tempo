@@ -7,9 +7,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Este plugin cria dois Widgets em seu site, um da TV novo Tempo e um da Rádio Novo Tempo, você pode transmitir esperança através do seu site. Basta arrastar e colocar o / os Widgets na área que deseja e pronto. Seu site já estará transmitindo ao vivo a TV e/ou Rádio Novo Tempo.
+Transmita esperança em seu site / Blog =)
 
 == Description ==
+
+Este plugin cria dois Widgets em seu site, um da TV novo Tempo e um da Rádio Novo Tempo, você pode transmitir esperança através do seu site. Basta arrastar e colocar o / os Widgets na área que deseja e pronto. Seu site já estará transmitindo ao vivo a TV e/ou Rádio Novo Tempo.
 
 http://novotempo.com/
 
